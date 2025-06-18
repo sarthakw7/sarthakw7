@@ -1,18 +1,28 @@
+# Hi, I’m Sarthak 👋
 
-- # Hi, I’m Sarthak 👋
+I’m a **backend developer** focused on building real-world applications with clean, scalable, and production-ready code. I'm passionate about **open source**, **AI integration**, and **cloud-native technologies**.
 
-I’m a **backend developer** interested in **open source contributions**, **AI integration**, and **cloud technologies**. Currently, I’m learning **JavaScript**, **ReactJs**, and expanding my skills in **backend development** and **PostgreSQL**.
+Currently on a **#100DaysOfCode** journey to sharpen my skills across:
+- ⚙️ **Java**, **Spring Boot**, **Go**
+- 🔁 **System Design**, **LLD/HLD**
+- 🧠 **Machine Learning** & **AI for backend**
+- ☁️ **Cloud**, **Docker**, **CI/CD pipelines**
 
 ## 🌱 What I’m Learning:
 - **JavaScript** & **ReactJs**
-- **Backend Development** with **FastAPI** and **Node.js**
-- **AI/ML** for backend applications
-- **Cloud technologies** (AWS, Azure)
+- **Backend development** with **FastAPI**, **Node.js**
+- **PostgreSQL**, **Redis**, **Kafka**
+- **DevOps practices** and **testing frameworks** (JUnit, pytest)
 
-## 📫 Reach me at: [sarthakw7@gmail.com](mailto:sarthakw7@gmail.com)
+## 🔨 Current Projects:
+- Job Tracker App (Spring Boot + MySQL)
+- Email Notification Microservice (Go)
 
-Feel free to check out my repositories and connect with me if you're interested in collaborating!
 
+## 📫 Reach me at: [sarthakw7@gmail.com](mailto:sarthakw7@gmail.com)  
+📎 [LinkedIn](https://www.linkedin.com/in/sarthakw7)
+
+> Let’s build, break, and learn — one day at a time 🚀
 
 <!---
 sarthakw7/sarthakw7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
