@@ -15,10 +15,11 @@ Currently on a **#100DaysOfCode** journey to sharpen my skills across:
 - **DevOps practices** and **testing frameworks** (JUnit, pytest)
 
 ## 🔨 Current Projects:
+- **Healthcare Microservices** (Spring Boot, PostgreSQL, Microservices, Kafka, Docker, AWS) - Buildingg Production Ready System with Real Enterprise Patterns 
 - **Event Ticket Platform** (Spring Boot, MySQL, AWS EC2/S3/RDS, Docker) - Building a secure and scalable backend for event listings and ticket purchases.
 - **Vibe AI Coding Project** (Python, AI/ML) - Exploring AI integration for enhanced coding workflows.
 - Job Tracker App (Spring Boot + MySQL)
-- Email Notification Microservice (Go)
+
 
 ## 📫 Reach me at: [sarthakw7@gmail.com](mailto:sarthakw7@gmail.com)
 📎 [LinkedIn](https://www.linkedin.com/in/sarthakw7)
